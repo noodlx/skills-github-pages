@@ -1,4 +1,6 @@
+#header
+##smaller header
 ---
-title: Welcome to my blog
+title: im following the tutorial really good
 ---
 
